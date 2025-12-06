@@ -1,0 +1,10 @@
+Add your logo.mp4 file here for the welcome screen animation.
+
+The welcome screen component expects a video file at /logo.mp4
+
+If you don't have a video file, the component will show a fallback rocket emoji (🚀) instead.
+
+To add your video:
+1. Place your video file in this public folder
+2. Name it "logo.mp4"
+3. The video should be around 4 seconds long for best experience
