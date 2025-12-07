@@ -9,7 +9,7 @@ interface HeaderProps {
 
 export default function Header({ darkMode, setDarkMode }: HeaderProps) {
   return (
-    <header className="bg-black border-b border-border sticky top-0 z-50 backdrop-blur-sm">
+   <header className="bg-background border-b border-border sticky top-0 z-50 backdrop-blur-sm">
       <div className="container mx-auto px-6 py-3 max-w-7xl">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-0">
